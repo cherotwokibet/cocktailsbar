@@ -1,4 +1,4 @@
-# *Cocktails Bar*
+# *Cocktail Bar*
 
 This is Cocktails Bar web app built with React js for learning purpose.
 

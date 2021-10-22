@@ -11,8 +11,9 @@ Run on your terminal `$npm install` to install the project.
 
 ## Demo
 
-Live Demo https://hotelmombasa.netlify.app
-
+Live Demo 
+https://cocktailsbar.netlify.app
+https://cocktailsbar1.herokuapp.com
 
 ## Available Scripts
 
